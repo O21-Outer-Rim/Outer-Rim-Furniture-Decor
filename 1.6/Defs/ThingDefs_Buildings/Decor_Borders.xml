@@ -18,7 +18,7 @@
 		<tradeability>None</tradeability>
 		<clearBuildingArea>false</clearBuildingArea>
 		<resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
-		<placingDraggableDimensions>1</placingDraggableDimensions>
+		<drawStyleCategory>Conduits</drawStyleCategory>
 		<statBases>
 			<MaxHitPoints>45</MaxHitPoints>
 			<WorkToBuild>100</WorkToBuild>
