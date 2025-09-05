@@ -7,9 +7,10 @@
 		</graphicData>
 		<size>(3, 3)</size>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecalsCorporations</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decals (Corporations)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -403,14 +404,6 @@
 		<label>Decal (Xisor Transport Systems)</label>
 		<graphicData>
 			<texPath>OuterRim/Building/Decals/Corporations/XisorTransportSystems</texPath>
-		</graphicData>
-	</ThingDef>
-
-	<ThingDef ParentName="OuterRim_Decals_Corporation">
-		<defName>OuterRim_Decal_Credit</defName>
-		<label>Decal (Credit)</label>
-		<graphicData>
-			<texPath>OuterRim/Building/Decals/Additional/Credit</texPath>
 		</graphicData>
 	</ThingDef>
 

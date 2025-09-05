@@ -11,9 +11,10 @@
 		</graphicData>
 		<size>(2,1)</size>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecalsMisc</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decals (Misc)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 		<designatorDropdown>OuterRim_AurebeshWords</designatorDropdown>

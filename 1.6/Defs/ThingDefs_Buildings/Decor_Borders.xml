@@ -40,9 +40,10 @@
 		</researchPrerequisites>
 		<costStuffCount>1</costStuffCount>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecorMisc</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decoration (Misc)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>

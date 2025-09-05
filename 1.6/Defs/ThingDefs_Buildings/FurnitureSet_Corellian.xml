@@ -54,9 +54,11 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -98,9 +100,11 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -128,9 +132,11 @@
 			<OuterRim_Durasteel>90</OuterRim_Durasteel>
 		</costList>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -186,9 +192,11 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -240,9 +248,11 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -282,9 +292,11 @@
 			<li Class="CompProperties_Styleable" />
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -331,9 +343,11 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -377,9 +391,11 @@
 			</li>
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -418,9 +434,11 @@
 			<li Class="CompProperties_Styleable" />
 		</comps>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Furniture</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -435,9 +453,11 @@
 		</graphicData>
 		<uiIconPath>OuterRim/Building/Furniture/Corellian/DoorCorellian_MenuIcon</uiIconPath>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Structural</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -471,9 +491,11 @@
 			</doorSupportGraphic>
 		</building>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatFurnitureCorellia</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Structural</li>
+					<li>Theme (Corellia)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>

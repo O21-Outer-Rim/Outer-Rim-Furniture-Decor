@@ -30,9 +30,10 @@
 		</stuffCategories>
 		<costStuffCount>400</costStuffCount>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecorStatues</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decoration (Statues)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -66,9 +67,10 @@
 		</stuffCategories>
 		<costStuffCount>400</costStuffCount>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecorStatues</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decoration (Statues)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -102,9 +104,10 @@
 		</stuffCategories>
 		<costStuffCount>400</costStuffCount>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecorStatues</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decoration (Statues)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -138,9 +141,10 @@
 		</stuffCategories>
 		<costStuffCount>400</costStuffCount>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecorStatues</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decoration (Statues)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>

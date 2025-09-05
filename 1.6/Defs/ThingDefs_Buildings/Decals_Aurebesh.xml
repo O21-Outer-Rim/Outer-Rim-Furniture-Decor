@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Defs>_
+<Defs>
 
 	<ThingDef ParentName="OuterRim_DecalBase" Name="OuterRim_AurebeshDecals" Abstract="True">
 		<graphicData>
 			<drawSize>(1.2, 1.2)</drawSize>
 		</graphicData>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecalsMisc</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decals (Aurebesh)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
-		
-	<ThingDef ParentName="OuterRim_AurebeshDecals">
-		<defName>OuterRim_Decal_Ashla</defName>
-		<label>Decal (Ashla)</label>
-		<graphicData>
-			<texPath>OuterRim/Building/Decals/Factions/Ashla</texPath>
-			<drawSize>(3, 3)</drawSize>
-		</graphicData>
-		<size>(3, 3)</size>
-	</ThingDef> 
-		
-	<ThingDef ParentName="OuterRim_AurebeshDecals">
-		<defName>OuterRim_Decal_Bogan</defName>
-		<label>Decal (Bogan)</label>
-		<graphicData>
-			<texPath>OuterRim/Building/Decals/Factions/Bogan</texPath>
-			<drawSize>(3, 3)</drawSize>
-		</graphicData>
-		<size>(3, 3)</size>
-	</ThingDef> 
 
 	<ThingDef ParentName="OuterRim_AurebeshDecals">
 		<defName>OuterRim_AurebeshDecalSymbolA</defName>

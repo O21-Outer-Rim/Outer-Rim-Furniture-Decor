@@ -7,9 +7,10 @@
 		</graphicData>
 		<size>(3, 3)</size>
 		<modExtensions>
-			<li Class="TabulaRasa.DefModExt_SubCategoryBuilding">
-				<subCategory>OuterRim_SubCatDecalsFaction</subCategory>
-				<showOnlyInCategory>true</showOnlyInCategory>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decals (Factions)</li>
+				</subcategories>
 			</li>
 		</modExtensions>
 	</ThingDef>
