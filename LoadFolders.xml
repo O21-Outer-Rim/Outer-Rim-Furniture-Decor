@@ -27,4 +27,13 @@
 		<!-- <li IfModActive="Neronix17.OuterRim.Core">1.6/Mods/OuterRimCore</li> -->
 		<li IfModNotActive="Neronix17.OuterRim.Core">1.6/Vanilla</li>
 	</v1.6>
+	<v1.7>
+		<li>/</li>
+		<li>Common</li>
+		<!-- Gotta load some bases from OR Core first otherwise it freaks out. -->
+		<li IfModNotActive="Neronix17.OuterRim.Core">1.7/VanillaPre</li>
+		<li>1.7</li>
+		<!-- <li IfModActive="Neronix17.OuterRim.Core">1.7/Mods/OuterRimCore</li> -->
+		<li IfModNotActive="Neronix17.OuterRim.Core">1.7/Vanilla</li>
+	</v1.7>
 </loadFolders>
